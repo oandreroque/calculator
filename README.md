@@ -1,6 +1,6 @@
 Projeto Calculator
 
-Utilizando HTML, CSS e JavaScript, Javascript
+Utilizando HTML, CSS e JavaScript
 
 Link do Projeto:
 
