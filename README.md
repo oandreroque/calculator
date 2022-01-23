@@ -1,4 +1,4 @@
-Projeto Calculator
+Projeto Calculadora
 
 Utilizando HTML, CSS e JavaScript
 
