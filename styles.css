@@ -7,7 +7,7 @@
 }
 
 body {
-    background: linear-gradient(to right, #233329, #41b883);
+    background: linear-gradient(to right, #232733, #0e2bcc);
 }
 
 .grid-container {
@@ -34,7 +34,7 @@ body {
 }
 
 .grid-container > .operator {
-    background: #41b88375;
+    background: #443a9e75;
 }
 
 .span-two{
