@@ -1,7 +1,5 @@
-Projeto Calculadora
+Projeto Calculadora - Felipe Rocha - Dicas Para Devs
 
 Utilizando HTML, CSS e JavaScript
 
-Link do Projeto:
-
-https://oandreroque-calculator.netlify.app/
+LINK DO PROJETO: https://oandreroque-calculator.netlify.app/
